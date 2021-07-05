@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 g
+=======
+#include <iostream>
+#include <string>
+#include <vector>
+using namespace std;
+>>>>>>> 1ec008954f3c07bbd314c8d9a18ae0b471852bca
 class Screen;
 
 class Window_mgr {
