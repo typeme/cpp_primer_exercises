@@ -11,6 +11,7 @@ std::istream& ReadFromStream(std::istream& is) {
 
 int main() {
     ReadFromStream(std::cin);
+    std::cout << "success" << std::endl;
     return 0;
 
 }
